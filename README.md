@@ -27,7 +27,7 @@
 I am a **B.tech Student** specializing in **Artificial Intelligence**, **Machine Learning**, and **Full-Stack Development**. With expertise in building scalable applications and implementing AI solutions, I focus on creating innovative products that solve real-world problems using cutting-edge technology.
 
 **🎯 Core Competencies:**
-- **💻 Full-Stack Development:** React, FastAPI, scalable system design
+- **💻 Full-Stack Development:** React, Next.js, scalable system design
 - **🧠 Problem Solving:** Data Structures & Algorithms, competitive programming
 
 <br clear="both"/>
@@ -36,7 +36,7 @@ I am a **B.tech Student** specializing in **Artificial Intelligence**, **Machine
 const ayushman = {
   location: "Kolkata, West Bengal, India",
   role: "AI Developer",
-  expertise: ["Python", "React", "Next.js", "RestAPI", "Express.js", "Node.js"],
+  expertise: ["Python", "React", "Next.js", "RestAPI", "Express.js", "PostgreSQL"],
   currentFocus: ["MLOps", "System Design", "AI Applications"],
   passion: "Building innovative solutions with cutting-edge technology"
 };
