@@ -14,7 +14,7 @@
     <a href="https://takeuforward.org/plus/profile/ayushman_22">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
     </a>
-    <a href="">
+    <a href="https://ayushman-portfolio-three.vercel.app/">
       <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </p>
@@ -118,7 +118,7 @@ I am open to opportunities in **Software Engineering**, **AI/ML projects**, and 
 
 **📧 Email:** [ayushmantiwari033@gmail.com](mailto:ayushmantiwari033@gmail.com)  
 **💼 LinkedIn:** [linkedin.com/in/ayushman-tiwari-a64b1028b/](https://www.linkedin.com/in/ayushman-tiwari-a64b1028b/)  
-**🌐 Portfolio:** Coming Sooon!!
+**🌐 Portfolio:** [https://ayushman-portfolio-three.vercel.app/](https://ayushman-portfolio-three.vercel.app/) 
 
 <br/>
 
