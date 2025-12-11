@@ -77,16 +77,25 @@ const ayushman = {
 
 Mentora is an AI-powered career advancement platform built to help professionals create tailored resumes, generate impactful cover letters, and prepare for interviews with adaptive AI-driven tools.
 
-**Stack:** `Next.js` `Tailwind` `Prisma` `NeonDB` `Clerk`
+**Stack:** `Next.js` `JavaScript` `Tailwind` `Prisma` `NeonDB` `Clerk`
+
+---
+
+### Juno – Centralized hub for campus club discovery and recruitment.
+**Individual Project | [Live Demo](https://juno-seven.vercel.app/) | [GitHub](https://github.com/bitHead22/Juno)**
+
+Juno is a dedicated platform designed for college students to discover and apply for open positions within various campus clubs. It helps clubs post their opportunities and manage applications, while providing students with an easy way to explore, apply, and connect with their college community.
+
+**Stack:** `React.js` `JavaScript` `Tailwind` `Supabase` `Clerk`
 
 ---
 
 ### Ecstasia - College Fest Web App
 **Team Project | [Live Demo](https://ecstasia.co.in/)**
 
-A responsive web app for a college fest using Next.js,.
+A responsive web app for a college fest using Next.js.
 
-**Stack:** `Next.js` `Tailwind` `TypeScript`
+**Stack:** `Next.js` `Tailwind` `TypeScript` 
 
 ---
 
