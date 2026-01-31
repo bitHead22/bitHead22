@@ -11,7 +11,7 @@
     <a href="mailto:ayushmantiwari033@gmail.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://takeuforward.org/plus/profile/ayushman_22">
+    <a href="https://takeuforward.org/profile/ayushman_22">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
     </a>
     <a href="https://ayushman-portfolio-three.vercel.app/">
