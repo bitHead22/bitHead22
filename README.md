@@ -93,7 +93,7 @@ Juno is a dedicated platform designed for college students to discover and apply
 ### Ecstasia - College Fest Web App
 **Team Project | [Live Demo](https://ecstasia.co.in/)**
 
-A responsive web app for a college fest using Next.js.
+Ecstasia is the annual cultural extravaganza of the University of Engineering and Management (UEM), Kolkata. This highly anticipated fest ignites the campus with excitement, fostering camaraderie and offering a vibrant celebration of traditions. Join Ecstasia 2026 – the ultimate cultural fest featuring band competitions, dance events, musical events.
 
 **Stack:** `Next.js` `Tailwind` `TypeScript` `SHADCN/UI`
 
